@@ -47,8 +47,7 @@
 #include <iostream>
 #include <QTimer>
 
-#include "questionwidget.h"
-#include "homewidget.h"
+#include "digitalclock.h"
 
 QT_BEGIN_NAMESPACE
 class QAction;

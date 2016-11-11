@@ -21,4 +21,4 @@ HEADERS += \
     mainwindow.h \
     digitalclock.h
 
-win32:RC_ICONS += $$PWD/../files/ico.ico
+win32:RC_ICONS += $$PWD/files/ico.ico
